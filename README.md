@@ -2,15 +2,19 @@
 
 An decentralized vault-based ENS renewal manager.
 
-> 👷🏽‍♀️ Hackathon Project
->
-> This project was created at [ETHPrague 2024](https://ethprague.com)
+Initial version of this project was created at [ETHPrague 2024](https://ethprague.com)
 
 This repository contains the smart-contracts belonging to [v3xlabs/rescue-name](https://github.com/v3xlabs/rescue-name). Please see this repository for more information.
 
 ## Deployments
 
+### Sepolia
+
 - `RescueName.sol` - `0x8c82dd2f5Ad2E4F70d2710Cc5290e0D80e42191B`
+
+### Ethereum Mainnet
+
+**Coming Soon**
 
 ## Copyright
 
